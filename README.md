@@ -5,6 +5,7 @@
 * Implement Q - learning algorithm
 * Make the robot reach the goal by maximizing the total reward of the trip
 * Make Q-function converge to the optimal values
+* MATLAB is used
 _______________________________________________________________
 ## Environment Set Up
 * MATLAB
